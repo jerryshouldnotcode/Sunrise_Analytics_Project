@@ -1,0 +1,11 @@
+Diagnosis_Code,Diagnosis_Desc
+D001,Hypertension
+D002,Diabetes
+D003,Asthma
+D004,Cancer
+D005,Migraine
+D006,Fracture
+D007,Arthritis
+D008,Stroke
+D009,Flu
+D010,COVID-19
